@@ -1,0 +1,6 @@
+{
+  "name": "دفترچه یادداشت رمزی",
+  "description": "دفترچه یادداشت هوشمند و امن با رمز عبور مجزا برای هر یادداشت و قابلیت ارسال مستقیم متن به جیمیل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
